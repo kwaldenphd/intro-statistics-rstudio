@@ -21,37 +21,37 @@ Additional documentation, including definitions and additional resources, for th
 
 ## Definitions
 
-### Numerical data
+**Numerical data:**
 
-### Categorical data
+**Categorical data:**
 
-### Univariate data
+**Univariate data:**
 
-### Bivariate data
+**Bivariate data:**
 
-### Multivariate data
+**Multivariate data:**
 
-### Descriptive statistics
+**Descriptive statistics:**
 
-### Mean, median, mode, and range
+**Mean, median, mode, and range:**
 
-### Correlations
+**Correlations:**
 
-### Regression
+**Regression:**
 
 # Option 1: Exploring Numerical Data
 
-[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab02.html)
+**[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab02.html)**
 
-Statistical concepts covered: mean, median, standard deviation, variance, quartiles, interquartile range, min, max
+**Statistical concepts covered:** mean, median, standard deviation, variance, quartiles, interquartile range, min, max
 
-Visualization types covered: histograms, boxplots, scatterplots
+**Visualization types covered:** histograms, boxplots, scatterplots
 
-Lab notebook deliverables
+**Lab notebook deliverables:**
 - RScript file that includes your process/progress working through the lab steps.
 - Brief summary (or summary comments throughout the lab) that describe challenges you faced and key takeaways.
 
-Resources:
+**Resources:**
 
 Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
@@ -73,19 +73,19 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 
 # Option 2: Exploring categorical data
 
-[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab03.html)
+**[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab03.html)**
 
-Statistical concepts covered: mean, median, standard deviation, variance, min/max, range, interquartile range, sample frequency, relative frequency distribution
+**Statistical concepts covered:** mean, median, standard deviation, variance, min/max, range, interquartile range, sample frequency, relative frequency distribution
 
-Visualization types covered: boxplots, histograms, bar plots/charts, mosaic plots
+**Visualization types covered:** boxplots, histograms, bar plots/charts, mosaic plots
 
-Lab notebook deliverables:
+**Lab notebook deliverables:**
 - PART 6 EXERCISES NOT REQUIRED
 - RScript file that includes your process/progress working through the lab steps
 - Documentation for five exercises included in the lab
 - Brief summary (or summary comments throughout the lab) that describe challenges you faced and key takeaways.
 
-Resources:
+**Resources:**
 
 Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
@@ -108,19 +108,19 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 
 # Option 3: Normal distributions
 
-[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab05.html)
+**[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab05.html)**
 
-Statistical concepts covered: probability distributions, normal distributions, percentiles
+**Statistical concepts covered:** probability distributions, normal distributions, percentiles
 
-Visualization types covered: histograms, probability plots
+**Visualization types covered:** histograms, probability plots
 
-Lab notebook deliverables:
+**Lab notebook deliverables:**
 - RScript file that includes your process/progress working through the lab steps
 - Documentation for five exercises included in the lab
 - Responses to the “On Your Own” section questions
 - Brief summary (or summary comments throughout the lab) that describe challenges you faced and key takeaways.
 
-Resources:
+**Resources:**
 
 Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
@@ -135,19 +135,19 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 
 # Option 4: Linear regression
 
-[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab10.html)
+**[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab10.html)**
 
-Statistical concepts covered: linear models, correlation coefficients, sum of squared residuals, regression line, regression models
+**Statistical concepts covered:** linear models, correlation coefficients, sum of squared residuals, regression line, regression models
 
-Visualization types covered: regression plots, linear model plots, histograms, xy plots
+**Visualization types covered:** regression plots, linear model plots, histograms, xy plots
 
-Lab notebook deliverables:
+**Lab notebook deliverables:**
 - ON YOUR OWN EXERCISES NOT REQUIRED
 - RScript file that includes your process/progress working through the lab steps
 - Documentation for seven exercises included in the lab
 - Brief summary (or summary comments throughout the lab) that describe challenges you faced and key takeaways.
 
-Resources:
+**Resources:**
 
 Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
@@ -167,11 +167,3 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 Chapter 15 [Linear Regression](https://learningstatisticswithr.com/book/regression.html)
 - 15.1 [What is a linear regression model?](https://learningstatisticswithr.com/book/regression.html#introregression)
 - 15.2.1 [Using the `lm()` function](https://learningstatisticswithr.com/book/regression.html#lm)
-
-### Regression
-
-# Option 1: Exploring Numerical Data
-
-[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab02.html)
-
-Statistical concepts covered: mean, median, standard deviation, variance, quartiles, interquartile range, min, max
