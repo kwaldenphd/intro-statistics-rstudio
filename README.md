@@ -14,7 +14,7 @@ Lab procedures for this week come from [Dr. Yibi Huang’s](http://www.stat.uchi
 Additional documentation, including definitions and additional resources, for this lab come from Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
 # Table of Contents
--[Overview](#overview)
+- [Overview](#overview)
   * [How to approach this lab](#how-to-approach-this-lab)
   * [Definitions](#definitions)
 - [Option 1: Exploring Numerical Data](#option-1-exploring-numerical-data)
