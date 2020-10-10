@@ -17,6 +17,7 @@ Additional documentation, including definitions and additional resources, for th
 - [Option 2: Exploring Categorical Data](#option-2-exploring-categorical-data)
 - [Option 3: Normal Distributions](#option-3-normal-distributions)
 - [Option 4: Linear Regression](#option-4-linear-regression)
+- [But what about text?!?](#but-what-about-text)
 
 # Overview
 
@@ -202,3 +203,35 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 Chapter 15 [Linear Regression](https://learningstatisticswithr.com/book/regression.html)
 - 15.1 [What is a linear regression model?](https://learningstatisticswithr.com/book/regression.html#introregression)
 - 15.2.1 [Using the `lm()` function](https://learningstatisticswithr.com/book/regression.html#lm)
+
+# But what about text?!?
+
+This lab (and the majority of our labs this semester) have focused on working with structured numerical and categorical data in R/RStudio. There is a whole other universe of things you can do in R/RStudio (as well as Python) for different kinds of analysis using unstructured textual data. This kind of analysis can be described a number of different ways: natural language processing (NLP), text analysis, computational linguistics, distant reading, among other terms.
+
+If you're interested in learning more about these methods, a number of different resources that can get you started...
+
+Tutorials:
+- [Basic Text Processing in R](https://programminghistorian.org/en/lessons/basic-text-processing-in-r) *Programming Historian*
+- [Corpus Analysis with Antconc](https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc) *Programming Historian*
+- [Getting Started with Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) *Programming Historian*
+- [R for Social Scientists](https://datacarpentry.org/r-socialsci/) *Data Carpentry*
+- [Humanities Data in R Workshop materials](https://github.com/statsmaths/uwm-humanities-data-r) (Taylor Arnold and Lauren Tilton, University of Richmond)
+- [More distant reading tutorials from *Programming Historian*](https://programminghistorian.org/en/lessons/?topic=distant-reading)
+
+GitHub repositories:
+- [Multilingual Natural Language Processing Resources](https://github.com/multilingual-dh/nlp-resources) (Quinn Dombrowski, Stanford)
+- [cleanNLP: A Tidy Data Model for Natural Language Processing](https://github.com/statsmaths/cleanNLP) (Taylor Arnold, University of Richmond)
+
+Syllabi:
+- ["Digital Humanities Across Borders" textual analysis syllabus](https://github.com/quinnanya/dlcl204) (Quinn Dombrowski, Stanford)
+- ["Practical Approaches to Data Science With Text" syllabus](https://github.com/laurenfklein/emory-qtm340) (Lauren F. Klein, Emory)
+- ["Computational Social Science" syllabus](https://github.com/laurenfklein/gt-css-class) (Lauren F. Klein, Georgia Tech)
+
+Additional resources:
+- [Chapter 11, "Text"](https://statsmaths.github.io/eds_book/text.html) from Taylor Arnold's [*Exploratory Data Analysis* in-progress book](https://statsmaths.github.io/eds_book/index.html).
+- [McGill University .txtLAB blog](https://txtlab.org/)
+- Johanna Drucker, "Why Distant Reading Isn't," *PMLA 132, 3* (2017): 628-635. https://doi.org/10.1632/pmla.2017.132.3.628. 
+  * [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_gale_ofa511153638)
+- [*Journal of Cultural Analytics*](https://culturalanalytics.org/)
+- Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago Press, 2019). [Link to access through Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005323126)
+- [Ted Underwood's blog "The Stone and the Shell"](https://tedunderwood.com/) 
