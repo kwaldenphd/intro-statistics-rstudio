@@ -14,6 +14,13 @@ Lab procedures for this week come from [Dr. Yibi Huang’s](http://www.stat.uchi
 Additional documentation, including definitions and additional resources, for this lab come from Danielle Navarro, [*Learning Statistics With R: A Tutorial for Psychology Students and Other Beginners*](https://learningstatisticswithr.com/book/) (2019).
 
 # Table of Contents
+-[Overview](#overview)
+  * [How to approach this lab](#how-to-approach-this-lab)
+  * [Definitions](#definitions)
+- [Option 1: Exploring Numerical Data](#option-1-exploring-numerical-data)
+- [Option 2: Exploring Categorical Data](#option-2-exploring-categorical-data)
+- [Option 3: Normal Distributions](#option-3-normal-distributions)
+- [Option 4: Linear Regression](#option-4-linear-regression)
 
 # Overview
 
@@ -71,7 +78,7 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 - 6.5.1 [Visual style of your boxplot](https://learningstatisticswithr.com/book/graphics.html#visual-style-of-your-boxplot)
 - 6.6 [Scatterplots](https://learningstatisticswithr.com/book/graphics.html#scatterplots)
 
-# Option 2: Exploring categorical data
+# Option 2: Exploring Categorical Data
 
 **[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab03.html)**
 
@@ -106,7 +113,7 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 - 6.6 [Scatterplots](https://learningstatisticswithr.com/book/graphics.html#scatterplots)
 - 6.7 [Bar graphs](https://learningstatisticswithr.com/book/graphics.html#bargraph)
 
-# Option 3: Normal distributions
+# Option 3: Normal Distributions
 
 **[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab05.html)**
 
@@ -133,7 +140,7 @@ Chapter 6 [Drawing graphs](https://learningstatisticswithr.com/book/graphics.htm
 - 6.2 [An introduction to plotting](https://learningstatisticswithr.com/book/graphics.html#introplotting)
 - 6.3.1 [Visual style of your histogram](https://learningstatisticswithr.com/book/graphics.html#visual-style-of-your-histogram)
 
-# Option 4: Linear regression
+# Option 4: Linear Regression
 
 **[Link to lab procedure](http://www.stat.uchicago.edu/~yibi/s220/labs/lab10.html)**
 
