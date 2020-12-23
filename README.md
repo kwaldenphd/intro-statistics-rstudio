@@ -21,6 +21,8 @@ Additional documentation, including definitions and additional resources, for th
 
 # Overview
 
+[Link to lab overview video in Panopto (ND users only)](https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9cf6097a-1733-4882-a59c-ac9a013f8568)
+
 ## How to approach this lab
 
 This lab will be different than how we've approached previous labs. 
